@@ -1,22 +1,22 @@
 # Getting Started with Create React App
 
-Projeyi çalıştırmak için 
+* **Projeyi çalıştırmak için** 
 
 `yarn electron:start`
 
-* Windows masaüstü uygulaması için
+* **Windows masaüstü uygulaması için**
 
 `yarn electron:package:win`
 
-* Linux masaüstü uygulaması için
+* **Linux masaüstü uygulaması için**
 
 `yarn electron:package:linux`
 
-* Mac masaüstü uygulaması için
+* **Mac masaüstü uygulaması için**
 
 `yarn electron:package:mac`
 
-* [Konuyu detaylı anlatan makale](https://dev.to/mmazzarolo/building-a-desktop-application-using-electron-and-create-react-app-4k45)
+* [**Konuyu detaylı anlatan makale**](https://dev.to/mmazzarolo/building-a-desktop-application-using-electron-and-create-react-app-4k45)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
