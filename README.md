@@ -2,6 +2,10 @@
 
 * **Projeyi çalıştırmak için** 
 
+`git clone https://github.com/enespolat25/react-electron-app.git`
+
+`cd react-electron-app`
+
 `yarn`
 
 `yarn electron:start`
