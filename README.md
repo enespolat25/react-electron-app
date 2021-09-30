@@ -2,6 +2,8 @@
 
 * **Projeyi çalıştırmak için** 
 
+`yarn`
+
 `yarn electron:start`
 
 * **Windows masaüstü uygulaması için**
