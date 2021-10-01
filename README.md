@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Bu projede React bir uygulamanın Electron.js ile nasıl Masaüstü uygulamasına dönüştürüldüğü anlatımlıştır. Windows, Mac ve Linux için çıktı verebilmektedir. 
+
 * **Projeyi çalıştırmak için** 
 
 `git clone https://github.com/enespolat25/react-electron-app.git`
